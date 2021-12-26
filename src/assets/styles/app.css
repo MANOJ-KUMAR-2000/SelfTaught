@@ -1,0 +1,10 @@
+#self{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 52px;
+    color: tomato;
+}
+
+.auth_head{
+    text-align: center;
+}
